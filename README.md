@@ -1,9 +1,5 @@
 News WebApp
 
-`Link of the website is...`
-
-`http://`
-
 This website is using a 3rd Party API to fetch the news data.
 
 Check the webiste on your local machine, firstly clone the source code from GitHub and instal required packages.
